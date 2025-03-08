@@ -1,0 +1,14 @@
+
+div {
+    border-style: solid;
+    border-color: chartreuse;
+}
+
+
+.now {
+    background-color: hotpink;
+    color: white;
+    border-radius: 6px;
+    padding: 3px
+    
+}
